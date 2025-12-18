@@ -1,20 +1,18 @@
-Linux basics
-=====
+# Linux basics
 
-Naviguating through the tree
+## Naviguating through the tree
 --
 
-``
+```bash
 cd /etc
 
 ls -l
-``
+```
 
-Create a file
+## Create a file
 --
 
-``
+```bash
 echo salut > fic1
 
-cat fic1
-``
+```
